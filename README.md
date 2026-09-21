@@ -15,10 +15,10 @@ The project focuses on three applications presented in the paper:
 
 ## Project Structure
 
-- `00_setup_theory.R` — common setup and implementation of the estimator averaging procedure.
-- `01_section_4_1.R` — Section 4.1: location estimation combining sample mean and median.
-- `03_section_4_3.R` — Section 4.3: parameter estimation for a Boolean model.
-- `04_section_4_4.R` — Section 4.4: quantile estimation under model misspecification.
+- `00_setup_theory.R`: common setup and implementation of the estimator averaging procedure.
+- `01_section_4_1.R` : Section 4.1: location estimation combining sample mean and median.
+- `03_section_4_3.R` : Section 4.3: parameter estimation for a Boolean model.
+- `04_section_4_4.R` : Section 4.4: quantile estimation under model misspecification.
 
 ## Methods
 
